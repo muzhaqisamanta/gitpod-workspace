@@ -1,1 +1,1 @@
-DROP TABLE IF EXISTS "chatRoom";
+DROP TABLE IF EXISTS "public"."chatRoom";
